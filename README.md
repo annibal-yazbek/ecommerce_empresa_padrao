@@ -1,4 +1,7 @@
-# ecommerce_empresa_padrao
-Este é um e-commerce para empresa - padrão , feito em PHP e MySQL
+# E-commerce Empresa X
 
-# Teste
+Vamos criar um e-commerce para Empresa X
+
+## Funcionalidades:
+
+Checkout, Tela de produto, Catálogo, Home com banner
