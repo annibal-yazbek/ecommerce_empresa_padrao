@@ -30,4 +30,4 @@ __Melhoria 1__, _Melhoria 2_
 
 #### Imagem local
 
-![Logo do Python](img/python.webp)
+![Logo do Python](img/python.png)
